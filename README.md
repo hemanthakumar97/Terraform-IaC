@@ -1,8 +1,8 @@
-### Terraform Infrastructure as Code (IaC)
+# Terraform Infrastructure as Code (IaC)
 
 This project demonstrates **Infrastructure as Code (IaC)** using **Terraform** to provision and manage cloud resources efficiently. It automates the deployment of cloud infrastructure, making it scalable, repeatable, and easy to maintain.
 
-#### **Features:**
+## **Features:**
 
 - **Automated Infrastructure Provisioning** using Terraform
 - **Modular Approach** for reusable configurations
@@ -10,7 +10,7 @@ This project demonstrates **Infrastructure as Code (IaC)** using **Terraform** t
 - **Secure and Scalable** infrastructure setup
 - **Supports AWS/Azure/GCP** (modify based on your cloud provider)
 
-#### **Use Cases:**
+## **Use Cases:**
 
 - Deploying cloud resources with minimal manual effort
 - Managing infrastructure in a version-controlled manner
